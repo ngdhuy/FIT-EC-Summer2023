@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+#container {
+  width: 80%;
+  margin: auto;
+}
+
+header {
+  background-color: #cc3366;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+
+nav {
+  background-color: #6633cc;
+  width: 20%;
+  float: left;
+  min-height: 100px;
+}
+
+#container div {
+  width: 60%;
+  float: left;
+}
+
+section {
+  background-color: #3366cc;
+}
+
+footer {
+  clear: both;
+  background-color: #c4a71d;
+  height: 30px;
+  line-height: 30px;
+  text-align: left;
+  padding: auto 10px;
+}
