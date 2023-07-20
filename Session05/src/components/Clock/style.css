@@ -1,0 +1,7 @@
+.timer {
+  font-size : 1.25rem; 
+  font-style: italic;
+  margin    : 10px 0;
+}
+
+.timer span { color: #cc3366; }
